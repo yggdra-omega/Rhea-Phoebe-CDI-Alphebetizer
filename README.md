@@ -17,3 +17,4 @@ Concerns:
   set-executionpolicy remotesigned
 2. If you have your games named the same filename (ex. disc.cdi) and only uniquely identified by the folder, you will run into issues. This script works assuming you have named the file itself as the game.
 3. Having an open Windows Explorer window viewing the SD card can sometimes cause the script to lock the computer when the drive is being accessed, this is mitigated by closing all open Explorer windows that are accessing it. Warnings are provided during runtime.
+4. If you wish to use RMENU or other GUI menu alternatives that require being located in the first folder to function, then create a file called "00001.cdi" on your SD card, run through the script, and then replace the file with your RMENU image by following the appropriate instructions.
