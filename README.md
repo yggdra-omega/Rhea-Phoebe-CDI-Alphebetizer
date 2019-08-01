@@ -1,6 +1,6 @@
 # Rhea-Phoebe-CDI-Alphebetizer
 
-I created this script to help manage file sorting for the Rhea and Phoebe drive emulator boards for the Sega Saturn.
+I created this script to help manage CDI file sorting for the Rhea and Phoebe drive emulator boards for the Sega Saturn.
 The Rhea/Phoebe product works by inserting an SD card with each game separated into numbered folders, and pressing a PCB-mounted button to cycle through the games.
 I found it frustrating creating the folder structure, and then placing each image file into them.
 What was even more frustrating than that was adding or removing games later without knowing where to add them to keep them alphabetized, as well as having to shift the games into the next folder.
